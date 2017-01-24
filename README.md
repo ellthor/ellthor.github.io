@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Ellen Thornton
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacus nibh, tempor et eleifend sed, vestibulum ut ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin blandit arcu porta massa commodo suscipit. Vestibulum tempus laoreet aliquet. Vestibulum dictum dolor in tempor sodales. Sed nulla leo, hendrerit at ex vel, ullamcorper rhoncus velit. Maecenas commodo, tellus vel tincidunt elementum, ligula ante suscipit quam, sed ultrices nisl nunc quis dui. Pellentesque sed tortor a metus venenatis vehicula. Aliquam in tellus et velit lacinia imperdiet id vel eros. 
 
-You can use the [editor on GitHub](https://github.com/ellthor/ellthor.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ellthor/ellthor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mauris id purus lacinia, pretium arcu tincidunt, condimentum felis. Duis velit massa, ullamcorper ac est vitae, blandit rhoncus eros. Fusce vulputate enim eget rutrum molestie. Nullam a ligula sem. Curabitur dignissim euismod dolor, ut aliquam risus sodales non. Cras eu nisl enim. Nunc ullamcorper libero ante, eu varius est venenatis in. Mauris vitae tincidunt urna, at venenatis quam. Nullam ac ipsum efficitur, sodales dui vel, volutpat tortor. Cras eleifend, dui eget tristique vestibulum, elit lorem tempor ex, sit amet volutpat libero massa in ipsum. Nullam tincidunt dolor a diam tristique euismod.
