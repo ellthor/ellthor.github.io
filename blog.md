@@ -20,7 +20,4 @@ Moretti, F. (2003). Graphs, Maps, Trees.  Retrieved from http://www.mat.ucsb.edu
 
 Pressman, J. & Swanstrom, L. (2013). The literary and/as digital humanities. Digital Humanities Quarterly, 7.  Retrieved from http://digitalhumanities.org:8081/dhq/vol/7/1/000154/000154.html
 
-Voyant (2003). [Text analysis of Drucker, Moretti, and Pressman & Swanstrom articles March 9, 2017].  Retrieved from http://voyant-tools.org/ 
-
-
-
+Voyant (2003). [Text analysis of Drucker, Moretti, and Pressman & Swanstrom articles March 9, 2017].  Retrieved from http://voyant-tools.org/
