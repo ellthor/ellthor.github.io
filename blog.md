@@ -22,4 +22,4 @@ Pressman, J. & Swanstrom, L. (2013). The literary and/as digital humanities. Dig
 
 Voyant (2003). [Text analysis of Drucker, Moretti, and Pressman & Swanstrom articles March 9, 2017].  Retrieved from http://voyant-tools.org/
 
-[Back to Home](README)
+[Back to Home](README.md)
