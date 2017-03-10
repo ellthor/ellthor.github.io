@@ -9,6 +9,7 @@ From this data, it is clear that most of the key words include “novel”, “d
 	In conclusion, Drucker brings up some very important points about how the digital humanities looks at data and how to implement it through any digital tool.  Researchers within the field have to change their perspective by looking at data as capta and considering the where the information is taken, as well as understand that time constantly fluctuates, which in turn has a lasting effect on the data collected.  Doing so will result in having a well-rounded, holistic viewpoint on any given topic within the humanities and can lead to more learning and research opportunities in the future.
 
 References
+
 Drucker, J. (2011). Humanities approaches to graphical display. Digital Humanities Quarterly, 5.  Retrieved from http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 Moretti, F. (2003). Graphs, Maps, Trees.  Retrieved from http://www.mat.ucsb.edu/~g.legrady/academic/courses/09w259/Moretti_graphs.pdf
 Pressman, J. & Swanstrom, L. (2013). The literary and/as digital humanities. Digital Humanities Quarterly, 7.  Retrieved from http://digitalhumanities.org:8081/dhq/vol/7/1/000154/000154.html
