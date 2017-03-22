@@ -4,3 +4,7 @@
   
   
   ### Blog Posts
+[Continue Reading](blog)
+
+### Pager Presentation
+[Slide Deck](reveal/index.html)
