@@ -7,4 +7,4 @@
 [Continue Reading](blog)
 
 ### Pager Presentation
-[Slide Deck](reveal/index.html)
+[Slide Deck](slides.html)
