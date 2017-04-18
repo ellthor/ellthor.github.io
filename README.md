@@ -16,8 +16,8 @@ The first revision over time was to build off of Drucker’s original point abou
 
 # Collaborative Project
   
-## Academic Blog
+# Academic Blog
 [View "A Better Understanding of Time and Context"](blog)
 
-## Research Presentation
+# Research Presentation
 [The Pager](slides.html)
