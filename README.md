@@ -15,10 +15,10 @@ The first revision over time was to build off of Drucker’s original point abou
 [View "A Better Understanding of Time and Context"](blog)
 
 # Collaborative Project
-[Palladio](Palladio.md)
+[View "Palladio"](Palladio.md)
   
 # Academic Blog
 [View "A Better Understanding of Time and Context"](blog)
 
 # Research Presentation
-[The Pager](slides.html)
+[View "The Pager"](slides.html)
