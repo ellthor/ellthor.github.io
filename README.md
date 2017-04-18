@@ -6,7 +6,7 @@
 # Featured Project
 ## "A Better Understanding of Time and Context"
 
-### Absrtact
+### Absract
 The following blog post is a response to Drucker’s article Humanities Approaches to Graphical Display.  When dealing with data, whether specifically in the digital humanities field or in any other field, context is an important factor to consider in order to gain a full understanding of the results that are discovered.  What people consider as data actually needs to be thought of as capta, as the information is much more complex than it may seem on the surface level, or upon first inspection.  Even the concept of time needs to be reconsidered into something that flows and repeats, rather than linear and sequential.  Through the use of data visualization tools such as Voyant, it is proven that the results will focus on surface level details, but not the metadata or context behind the given materials.  Therefore, many people would be able to interpret the information in a variety of different ways.  Within the humanities field of study, and specifically in the digital humanities, there is never one completely correct answer, compared to a mathematics of science field.  Therefore, it is important when understanding and interpreting any new research that the environment the research was found, as well as the time in history it was discovered are incorporated into the results.  This will result in people having a well-rounded, holistic understanding of the results as well as the topic that was researched, and will lead interested people into conducting their own research into their field of study.
 
 ### Research Process
