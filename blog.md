@@ -1,4 +1,4 @@
-Understanding Time and Context
+# Understanding Time and Context
 
 The digital humanities aims to work through and solve problems that are found in traditional humanities fields by incorporating and integrating today’s new technology.  In today’s digital age, there are a wide variety of tools that are available for people to use within the digital humanities in order to support their work.  Some of the more popular tools to be used today are data visualization, graphing, and mapping tools.  However, as this trend has become increasingly prevalent within the discipline, digital humanists need to remember that their data cannot always be simplified through these tools as there is more information to be found through the interpretation of the data.  This is the argument Drucker makes in her article.
 
